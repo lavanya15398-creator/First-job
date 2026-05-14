@@ -1,4 +1,2 @@
-This is my first job
-second line
-third line
-fourth line
+This is a cat command
+This is suni
